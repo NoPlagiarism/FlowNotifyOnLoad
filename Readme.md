@@ -4,7 +4,9 @@ A plugin for the [Flow launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
 ## Install
 
-```pm install https://github.com/NoPlagiarism/FlowNotifyOnLoad/releases/download/v1.0.0/FlowNotifyOnLoad-1.0.0.zip```
+```
+pm install https://github.com/NoPlagiarism/FlowNotifyOnLoad/releases/download/v1.0.0/FlowNotifyOnLoad-1.0.0.zip
+```
 
 ## Usage
 
