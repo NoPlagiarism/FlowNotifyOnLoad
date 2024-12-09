@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.FlowNotifyOnLoad -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.FlowNotifyOnLoad/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.FlowNotifyOnLoad/bin/FlowNotifyOnLoad.zip -Force
